@@ -1,0 +1,7 @@
+D:\myworkspace\AzureTutorial\SampleCoreWebApp\obj\Release\net6.0\PubTmp\Out\SampleCoreWebApp.exe
+D:\myworkspace\AzureTutorial\SampleCoreWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\myworkspace\AzureTutorial\SampleCoreWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\myworkspace\AzureTutorial\SampleCoreWebApp\obj\Release\net6.0\PubTmp\Out\SampleCoreWebApp.dll
+D:\myworkspace\AzureTutorial\SampleCoreWebApp\obj\Release\net6.0\PubTmp\Out\SampleCoreWebApp.deps.json
+D:\myworkspace\AzureTutorial\SampleCoreWebApp\obj\Release\net6.0\PubTmp\Out\SampleCoreWebApp.runtimeconfig.json
+D:\myworkspace\AzureTutorial\SampleCoreWebApp\obj\Release\net6.0\PubTmp\Out\SampleCoreWebApp.pdb
